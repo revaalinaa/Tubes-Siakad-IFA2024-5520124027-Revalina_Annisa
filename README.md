@@ -184,7 +184,7 @@ Folder **screenshots/** berisi dokumentasi tampilan aplikasi, antara lain:
 **Revalina Annisa**
 NPM : 5520124027
 Program Studi Teknik Informatika
-Universitas Gunadarma
+Universitas SuryaKencana
 
 ---
 
